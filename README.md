@@ -9,3 +9,6 @@ Get values for the density of air and area of the object being analysized from t
 Calculate the coefficents of lift and drag for each instance. 
 Apply manufacture provided correction factors to the angle of attack and coefficent of drag outputs. 
 Output computed data to a user specified file.
+
+The file TestData1 is a sample output file from the wind tunnel. 
+It was taken on a model F-16 fighter jet at a 1:48 scale with a total wing area of 18.75 in^2, and a mean chord length of 2.83 in.
